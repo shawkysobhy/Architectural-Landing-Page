@@ -21,7 +21,6 @@ export default {
 				ms: '1090px',
 				ml: '1440px',
         lg:'720px',
-				vl: '1920px',
 			},
 		},
 	},
