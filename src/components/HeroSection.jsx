@@ -7,9 +7,9 @@ function HeroSection() {
 				alt='heroImg'
 				className='object-cover w-full max-w-[1090px]'
 			/>
-			<div className=' block md:absolute w-full bottom-0 ms:top-[20%] ms:right-[0%] '>
-				<div className='w-full mx-auto ms:mr-0 ms:mx-auto m text-center px-8 py-12  md:px-[190px] md:py-[70px] max-w-[950px] bg-[#ffffffb3]  '>
-					<div className='flex flex-col space-y-8 '>
+			<div className='block md:absolute w-full bottom-0 ms:top-[20%] ms:right-[0%] '>
+				<div className='w-full mx-auto ms:mr-0 ms:mx-auto  text-center px-8 py-12  md:px-[190px] md:py-[70px] max-w-[950px] bg-[#ffffffb3]  '>
+					<div className='flex flex-col space-y-4 ms:space-y-8 '>
 						<h2 className='text-2xl md:text-3xl ms:text-4xl '>
 							Get personalised home interiors
 						</h2>

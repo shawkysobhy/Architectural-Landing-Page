@@ -8,6 +8,12 @@
 	background-position-y: center;
 }
 
+@layer components {
+	.footer-column {
+		@apply hidden mx-auto text-center ml:inline text-darkGray;
+	}
+}
+
 .righRectangle {
 	background-image: url(./assets/rightrectangle.svg);
 	background-repeat: no-repeat;
@@ -18,7 +24,6 @@
 	background-image: url(./assets/leftrectangle.svg);
 	background-size: contain;
 }
-
 
 .carousel-item-fixed-width {
 	width: 385px !important ;

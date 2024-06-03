@@ -1,6 +1,5 @@
 import logo from '../assets/logos/brandlogo.svg';
-import CustomNavLink from './CustomNavLink';
-import CustomBurgerButton from './CustomBurgerButton';
+import { CustomNavLink, CustomBurgerButton } from './';
 function Header() {
 	return (
 		<header className='px-8 py-8 ms:py-10 ms:px-10 ms:pr-24 bg-gray '>

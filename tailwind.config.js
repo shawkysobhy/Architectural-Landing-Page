@@ -16,11 +16,11 @@ export default {
 
 			screens: {
 				xs: '350px',
-        sm:'480px',
+				sm: '480px',
 				md: '720px',
 				ms: '1090px',
 				ml: '1440px',
-        lg:'720px',
+				lg: '720px',
 			},
 		},
 	},

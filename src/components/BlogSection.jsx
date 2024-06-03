@@ -1,4 +1,4 @@
-import BlogCard from './BlogCard';
+import { BlogCard } from './';
 import { blogData } from '../mockup/mockup';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
@@ -32,7 +32,6 @@ function BlogSection() {
 					))}
 				</Carousel>
 			</div>
-			
 		</section>
 	);
 }
