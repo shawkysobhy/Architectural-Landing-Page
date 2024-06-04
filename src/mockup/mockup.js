@@ -15,11 +15,11 @@ import twitter from '../assets/logos/twitter.svg';
 import youtube from '../assets/logos/youtube.svg';
 import instagram from '../assets/logos/instagram.svg';
 export const navigationLinks = [
-	{ href: '#about', link: 'About' },
-	{ href: '#projects', link: 'Projects' },
-	{ href: '#studio', link: 'Studio' },
-	{ href: '#blog', link: 'Blog' },
-	{ href: '#contact', link: 'Contact' },
+	{ href: '#about', label: 'About' },
+	{ href: '#projects', label: 'Projects' },
+	{ href: '#studio', label: 'Studio' },
+	{ href: '#blog', label: 'Blog' },
+	{ href: '#contact', label: 'Contact' },
 ];
 export const loreamText =
 	'Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla';
